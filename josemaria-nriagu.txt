@@ -1,0 +1,7 @@
+//Hello this is my awesome file!
+
+School: Lambda
+Student: Josemaria Nriagu
+Course: Full Stack Web
+Type: Full-time
+Condition: Remote
